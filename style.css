@@ -140,7 +140,7 @@ p {
     justify-content: space-around;
 } */
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 320px), (max-width: 1440) {
     .project-container {
         display: flex;
         flex-wrap: wrap;
@@ -211,5 +211,8 @@ a {
     }
 
     
+
+    
+
     
 }
