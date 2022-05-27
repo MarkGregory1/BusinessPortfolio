@@ -95,10 +95,7 @@ p {
     padding-bottom: 200px;
 }
 
-.logo {
-    height: 80px;
-    margin: 30px;
-}
+
 .social {
     margin: 20px;
 }
@@ -116,7 +113,7 @@ p {
     padding: 80px;
 }
 
-.headshot {
+/* .headshot {
     width: 300px;
     border-radius: 150px;
     margin-left: 80px;
@@ -125,7 +122,7 @@ p {
 .headshot-container {
     display: flex;
     align-items: center;
-}
+} */
 
 .project-card {
     width: 300px;
@@ -213,7 +210,6 @@ a {
         background-color: #2b2c38;
     }
 
-    .logo {
-        display: none;
-    }
+    
+    
 }
